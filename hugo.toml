@@ -1,4 +1,23 @@
 baseURL = 'https://vontellus.github.io/fredric.net/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+defaultContentLanguage = "en"
+title = 'Fredric'
 theme = 'hextra'
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+  [[menu.main]]
+    name = "Docs"
+    url = "/docs/"
+    weight = 4

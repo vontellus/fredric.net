@@ -1,0 +1,6 @@
+/* Fredric.net - Custom CSS overriding Hextra Theme */
+
+/* Adjust the spacing between breadcrumbs and the page title */
+.content {
+  margin-top: 4rem; /* The default is larger, try 1rem, 1.5rem, or 0.5rem */
+}
