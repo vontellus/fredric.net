@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fredric – Blog Posts</title>
+    <title>fredric.net – Blog Posts</title>
     <link>http://localhost:1313/fredric.net/blog/</link>
-    <description>Recent content in Blog Posts on Fredric</description>
+    <description>Recent content in Blog Posts on fredric.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Oct 2025 15:40:00 +0200</lastBuildDate>
@@ -24,7 +24,8 @@
       <description>
         
         
-        &lt;p&gt;Creating engaging and informative content is key to a successful blog. Here are some tips to help you out.&lt;/p&gt;
+        &lt;p&gt;{{&amp;lt; icon &amp;ldquo;sun&amp;rdquo; &amp;gt;}}
+Creating engaging and informative content is key to a successful blog. Here are some tips to help you out.&lt;/p&gt;
 &lt;h2&gt;Know Your Audience&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;know-your-audience&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#know-your-audience&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Before you start writing, understand who you&amp;rsquo;re writing for. Tailor your language and topics to their interests and needs.&lt;/p&gt;
 &lt;h2&gt;Structure Your Posts&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;structure-your-posts&#34;&gt;&lt;/span&gt;
