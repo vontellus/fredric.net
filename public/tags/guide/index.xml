@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fredric – Guide</title>
-    <link>http://localhost:1313/fredric.net/tags/guide/</link>
-    <description>Recent content in Guide on Fredric</description>
+    <title>fredric.net – Guide</title>
+    <link>https://vontellus.github.io/fredric.net/tags/guide/</link>
+    <description>Recent content in Guide on fredric.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://localhost:1313/fredric.net/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://vontellus.github.io/fredric.net/tags/guide/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Getting Started</title>
-      <link>http://localhost:1313/fredric.net/docs/getting-started/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/getting-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/getting-started/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/getting-started/</guid>
       <description>
         
         
@@ -30,7 +30,7 @@
 &lt;/span&gt;
  &lt;a href=&#34;https://github.com/imfing/hextra-starter-template&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;imfing/hextra-starter-template&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;You could quickly get started by using the above template repository.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;img src=&#34;https://docs.github.com/assets/cb-77734/mw-1440/images/help/repository/use-this-template-button.webp&#34; width=&#34;500&#34;&gt;
 &lt;p&gt;We have provided a &lt;a href=&#34;https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Actions workflow&lt;/a&gt; which can help automatically build and deploy your site to GitHub Pages, and host it for free.
 For more options, check out &lt;a href=&#34;../guide/deploy-site&#34;&gt;Deploy Site&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://imfing.github.io/hextra-starter-template/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🌐 Demo ↗&lt;/a&gt;&lt;/p&gt;
@@ -53,7 +53,7 @@ For more options, check out &lt;a href=&#34;../guide/deploy-site&#34;&gt;Deploy 
 &lt;li&gt;&lt;a href=&#34;https://go.dev/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;Steps&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steps&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#steps&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;!-- raw HTML omitted --&gt;
+    &lt;a href=&#34;#steps&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;div class=&#34;hextra-steps hx:ml-4 hx:mb-12 hx:ltr:border-l hx:rtl:border-r hx:border-gray-200 hx:ltr:pl-6 hx:rtl:pr-6 hx:dark:border-neutral-800 [counter-reset:step]&#34;&gt;
 &lt;h3&gt;Initialize a new Hugo site&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;initialize-a-new-hugo-site&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#initialize-a-new-hugo-site&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
 
@@ -129,12 +129,51 @@ For more options, check out &lt;a href=&#34;../guide/deploy-site&#34;&gt;Deploy 
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Voila, your new site preview is available at &lt;code&gt;http://localhost:1313/&lt;/code&gt;.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;/div&gt;
+&lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; open&gt;
+  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
+    &lt;strong class=&#34;hx:text-lg&#34;&gt;How to update theme?&lt;/strong&gt;
+  &lt;/summary&gt;
+  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
+    &lt;p&gt;To update all Hugo modules in your project to their latest versions, run the following command:&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo mod get -u&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;To update Hextra to the &lt;a href=&#34;https://github.com/imfing/hextra/releases&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;latest released version&lt;/a&gt;, run the following command:&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo mod get -u github.com/imfing/hextra&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;If you want to try the most recent changes before the next release, update the module to the development branch directly (⚠️ may contain unstable/breaking changes):&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo mod get -u github.com/imfing/hextra@main&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;See &lt;a href=&#34;https://gohugo.io/hugo-modules/use-modules/#update-all-modules&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Modules&lt;/a&gt; for more details.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
 &lt;h3&gt;Setup Hextra as Git submodule&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;setup-hextra-as-git-submodule&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#setup-hextra-as-git-submodule&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Prerequisites&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;prerequisites-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#prerequisites-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Before starting, you need to have the following software installed:&lt;/p&gt;
@@ -143,7 +182,7 @@ For more options, check out &lt;a href=&#34;../guide/deploy-site&#34;&gt;Deploy 
 &lt;li&gt;&lt;a href=&#34;https://git-scm.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;Steps&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steps-1&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#steps-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;!-- raw HTML omitted --&gt;
+    &lt;a href=&#34;#steps-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;div class=&#34;hextra-steps hx:ml-4 hx:mb-12 hx:ltr:border-l hx:rtl:border-r hx:border-gray-200 hx:ltr:pl-6 hx:rtl:pr-6 hx:dark:border-neutral-800 [counter-reset:step]&#34;&gt;
 &lt;h3&gt;Initialize a new Hugo site&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;initialize-a-new-hugo-site-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#initialize-a-new-hugo-site-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
 
@@ -227,7 +266,7 @@ For more options, check out &lt;a href=&#34;../guide/deploy-site&#34;&gt;Deploy 
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Your new site preview is available at &lt;code&gt;http://localhost:1313/&lt;/code&gt;.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;/div&gt;
 &lt;p&gt;When using &lt;a href=&#34;https://en.wikipedia.org/wiki/CI/CD&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CI/CD&lt;/a&gt; for Hugo website deployment, it&amp;rsquo;s essential to ensure that the following command is executed before running the &lt;code&gt;hugo&lt;/code&gt; command.&lt;/p&gt;
 &lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
 
@@ -242,10 +281,38 @@ For more options, check out &lt;a href=&#34;../guide/deploy-site&#34;&gt;Deploy 
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Failure to run this command results in the theme folder not being populated with Hextra theme files, leading to a build failure.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; open&gt;
+  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
+    &lt;strong class=&#34;hx:text-lg&#34;&gt;How to update theme?&lt;/strong&gt;
+  &lt;/summary&gt;
+  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
+    &lt;p&gt;To update all submodules in your repository to their latest commits, run the following command:&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git submodule update --remote&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;To update Hextra to the latest commit, run the following command:&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git submodule update --remote themes/hextra&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;See &lt;a href=&#34;https://git-scm.com/book/en/v2/Git-Tools-Submodules&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git submodules&lt;/a&gt; for more details.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
 &lt;h2&gt;Next&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;next&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#next&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Explore the following sections to start adding more contents:&lt;/p&gt;
 &lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;

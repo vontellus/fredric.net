@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fredric – Advanced Topics</title>
-    <link>http://localhost:1313/fredric.net/docs/advanced/</link>
-    <description>Recent content in Advanced Topics on Fredric</description>
+    <title>fredric.net – Advanced Topics</title>
+    <link>https://vontellus.github.io/fredric.net/docs/advanced/</link>
+    <description>Recent content in Advanced Topics on fredric.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://localhost:1313/fredric.net/docs/advanced/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://vontellus.github.io/fredric.net/docs/advanced/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Multi-language</title>
-      <link>http://localhost:1313/fredric.net/docs/advanced/multi-language/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/advanced/multi-language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/advanced/multi-language/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/advanced/multi-language/</guid>
       <description>
         
         
@@ -158,10 +158,10 @@
     
     <item>
       <title>Comments System</title>
-      <link>http://localhost:1313/fredric.net/docs/advanced/comments/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/advanced/comments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/advanced/comments/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/advanced/comments/</guid>
       <description>
         
         
@@ -213,10 +213,10 @@ Currently &lt;a href=&#34;https://giscus.app/&#34;target=&#34;_blank&#34; rel=&#
     
     <item>
       <title>Customizing Hextra</title>
-      <link>http://localhost:1313/fredric.net/docs/advanced/customization/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/advanced/customization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/advanced/customization/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/advanced/customization/</guid>
       <description>
         
         

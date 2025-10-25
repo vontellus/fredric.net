@@ -3,7 +3,7 @@ title: "Tips for Writing Great Content"
 date: 2025-10-25T15:40:00+02:00
 draft: false
 ---
-
+{{</* icon "sun" */>}}
 Creating engaging and informative content is key to a successful blog. Here are some tips to help you out.
 
 ## Know Your Audience

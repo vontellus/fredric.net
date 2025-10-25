@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fredric – Shortcodes</title>
-    <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/</link>
-    <description>Recent content in Shortcodes on Fredric</description>
+    <title>fredric.net – Shortcodes</title>
+    <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/</link>
+    <description>Recent content in Shortcodes on fredric.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://localhost:1313/fredric.net/docs/guide/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://vontellus.github.io/fredric.net/docs/guide/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Asciinema Player Component</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/asciinema/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/asciinema/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/asciinema/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/asciinema/</guid>
       <description>
         
         
@@ -248,10 +248,10 @@ For page bundles, place cast files alongside your markdown file:&lt;/p&gt;
     
     <item>
       <title>Callout Component</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/callout/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/callout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/callout/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/callout/</guid>
       <description>
         
         
@@ -538,10 +538,10 @@ It leverages Markdown syntax to render the callout which ensures better portabil
     
     <item>
       <title>Cards Component</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/cards/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/cards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/cards/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/cards/</guid>
       <description>
         
         
@@ -556,13 +556,13 @@ It leverages Markdown syntax to render the callout which ensures better portabil
     &lt;div class=&#34;hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:text-gray-600 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:dark:text-neutral-200 hx:border-gray-200 hx:dark:border-neutral-700&#34;&gt;custom tag&lt;/div&gt;
   &lt;/div&gt;&lt;/a&gt;
   &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;No Icon&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
   &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;img
         alt=&#34;Image Card&#34;
         class=&#34;hextra-card-image&#34;
@@ -575,20 +575,20 @@ It leverages Markdown syntax to render the callout which ensures better portabil
       /&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Image Card&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Internet Image&lt;/div&gt;&lt;/a&gt;
   
       &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;img
         alt=&#34;Local Image&#34;
         class=&#34;hextra-card-image&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;http://localhost:1313/fredric.net/images/card-image-unprocessed.jpg&#34;
+        src=&#34;https://vontellus.github.io/fredric.net/images/card-image-unprocessed.jpg&#34;
         
         
         
       /&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Local Image&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Raw image under static directory.&lt;/div&gt;&lt;/a&gt;
   
       &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;img
         alt=&#34;Local Image&#34;
         class=&#34;hextra-card-image&#34;
@@ -657,7 +657,7 @@ It leverages Markdown syntax to render the callout which ensures better portabil
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;code&gt;icon&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;Name of the icon. See &lt;a href=&#34;http://localhost:1313/fredric.net/fredric.net/docs/guide/shortcodes/icon/&#34;&gt;icons&lt;/a&gt; for more information.&lt;/td&gt;
+          &lt;td&gt;Name of the icon. See &lt;a href=&#34;https://vontellus.github.io/fredric.net/fredric.net/docs/guide/shortcodes/icon/&#34;&gt;icons&lt;/a&gt; for more information.&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -714,15 +714,15 @@ It currently supports these &lt;code&gt;method&lt;/code&gt;: &lt;code&gt;Resize&
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;code&gt;tagColor&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;Color of the tag. See &lt;a href=&#34;http://localhost:1313/fredric.net/fredric.net/docs/guide/shortcodes/others/#badges&#34;&gt;badges&lt;/a&gt; for more information.&lt;/td&gt;
+          &lt;td&gt;Color of the tag. See &lt;a href=&#34;https://vontellus.github.io/fredric.net/fredric.net/docs/guide/shortcodes/others/#badges&#34;&gt;badges&lt;/a&gt; for more information.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;code&gt;tagIcon&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;Icon of the tag. See &lt;a href=&#34;http://localhost:1313/fredric.net/fredric.net/docs/guide/shortcodes/others/#badges&#34;&gt;badges&lt;/a&gt; for more information.&lt;/td&gt;
+          &lt;td&gt;Icon of the tag. See &lt;a href=&#34;https://vontellus.github.io/fredric.net/fredric.net/docs/guide/shortcodes/others/#badges&#34;&gt;badges&lt;/a&gt; for more information.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;code&gt;tagBorder&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;Border of the tag. See &lt;a href=&#34;http://localhost:1313/fredric.net/fredric.net/docs/guide/shortcodes/others/#badges&#34;&gt;badges&lt;/a&gt; for more information.&lt;/td&gt;
+          &lt;td&gt;Border of the tag. See &lt;a href=&#34;https://vontellus.github.io/fredric.net/fredric.net/docs/guide/shortcodes/others/#badges&#34;&gt;badges&lt;/a&gt; for more information.&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -749,13 +749,13 @@ It currently supports these &lt;code&gt;method&lt;/code&gt;: &lt;code&gt;Resize&
   &lt;/div&gt;&lt;/a&gt;
   
       &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;img
         alt=&#34;Image Card&#34;
         class=&#34;hextra-card-image&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;http://localhost:1313/fredric.net/images/card-image-unprocessed.jpg&#34;
+        src=&#34;https://vontellus.github.io/fredric.net/images/card-image-unprocessed.jpg&#34;
         
         
         
@@ -764,7 +764,7 @@ It currently supports these &lt;code&gt;method&lt;/code&gt;: &lt;code&gt;Resize&
   &lt;/div&gt;&lt;/a&gt;
   
       &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;img
         alt=&#34;Image Card&#34;
         class=&#34;hextra-card-image&#34;
@@ -802,19 +802,19 @@ It currently supports these &lt;code&gt;method&lt;/code&gt;: &lt;code&gt;Resize&
     &lt;a href=&#34;#columns&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You can specify the maximum number of columns for cards to span by passing the &lt;code&gt;cols&lt;/code&gt; parameter to the &lt;code&gt;cards&lt;/code&gt; shortcode. Note that columns will still be collapsed on smaller screens.&lt;/p&gt;
 &lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 1;&#34;&gt;
   &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Top Card&lt;/span&gt;&lt;/a&gt;
   &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Bottom Card&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 2;&#34;&gt;
   &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Left Card&lt;/span&gt;&lt;/a&gt;
   &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Right Card&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
@@ -844,10 +844,10 @@ It currently supports these &lt;code&gt;method&lt;/code&gt;: &lt;code&gt;Resize&
     
     <item>
       <title>Details</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/details/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/details/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/details/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/details/</guid>
       <description>
         
         
@@ -913,10 +913,10 @@ It currently supports these &lt;code&gt;method&lt;/code&gt;: &lt;code&gt;Resize&
     
     <item>
       <title>FileTree Component</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/filetree/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/filetree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/filetree/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/filetree/</guid>
       <description>
         
         
@@ -1039,10 +1039,10 @@ It currently supports these &lt;code&gt;method&lt;/code&gt;: &lt;code&gt;Resize&
     
     <item>
       <title>Hextra Shortcodes</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/hextra/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/hextra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/hextra/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/hextra/</guid>
       <description>
         
         
@@ -1403,10 +1403,10 @@ It currently supports these &lt;code&gt;method&lt;/code&gt;: &lt;code&gt;Resize&
     
     <item>
       <title>Icon</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/icon/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/icon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/icon/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/icon/</guid>
       <description>
         
         
@@ -1501,10 +1501,10 @@ It currently supports these &lt;code&gt;method&lt;/code&gt;: &lt;code&gt;Resize&
     
     <item>
       <title>Other Shortcodes</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/others/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/others/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/others/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/others/</guid>
       <description>
         
         
@@ -1692,7 +1692,7 @@ Releases&lt;/div&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;code&gt;color&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;The color of the badge. &lt;!-- raw HTML omitted --&gt; &lt;code&gt;gray&lt;/code&gt; (default), &lt;code&gt;purple&lt;/code&gt;, &lt;code&gt;indigo&lt;/code&gt;, &lt;code&gt;blue&lt;/code&gt;, &lt;code&gt;green&lt;/code&gt;, &lt;code&gt;yellow&lt;/code&gt;, &lt;code&gt;amber&lt;/code&gt;, &lt;code&gt;orange&lt;/code&gt;, &lt;code&gt;red&lt;/code&gt;.&lt;/td&gt;
+          &lt;td&gt;The color of the badge. &lt;br/&gt; &lt;code&gt;gray&lt;/code&gt; (default), &lt;code&gt;purple&lt;/code&gt;, &lt;code&gt;indigo&lt;/code&gt;, &lt;code&gt;blue&lt;/code&gt;, &lt;code&gt;green&lt;/code&gt;, &lt;code&gt;yellow&lt;/code&gt;, &lt;code&gt;amber&lt;/code&gt;, &lt;code&gt;orange&lt;/code&gt;, &lt;code&gt;red&lt;/code&gt;.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;code&gt;class&lt;/code&gt;&lt;/td&gt;
@@ -1762,17 +1762,17 @@ Releases&lt;/div&gt;
     
     <item>
       <title>Steps</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/steps/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/steps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/steps/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/steps/</guid>
       <description>
         
         
         &lt;p&gt;A built-in component to display a series of steps.&lt;/p&gt;
 &lt;p&gt;You can use the Markdown attribute &lt;code&gt;{class=&amp;quot;no-step-marker&amp;quot;}&lt;/code&gt; to prevent a heading from being counted as a step.&lt;/p&gt;
 &lt;h2&gt;Example&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;example&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#example&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;!-- raw HTML omitted --&gt;
+    &lt;a href=&#34;#example&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hextra-steps hx:ml-4 hx:mb-12 hx:ltr:border-l hx:rtl:border-r hx:border-gray-200 hx:ltr:pl-6 hx:rtl:pr-6 hx:dark:border-neutral-800 [counter-reset:step]&#34;&gt;
 &lt;h3&gt;Step 1&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#step-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;This is the first step.&lt;/p&gt;
 &lt;h3&gt;Step 2&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2&#34;&gt;&lt;/span&gt;
@@ -1781,7 +1781,7 @@ Releases&lt;/div&gt;
     &lt;a href=&#34;#step-subheading&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;This will not be counted as a step.&lt;/p&gt;
 &lt;h3&gt;Step 3&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#step-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;This is the third step.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;/div&gt;
 &lt;h2&gt;Usage&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;usage&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#usage&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-amber-200 hx:bg-amber-100 hx:text-amber-900 hx:dark:border-amber-200/30 hx:dark:bg-amber-900/30 hx:dark:text-amber-200&#34;&gt;
   &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;svg height=1.2em class=&#34;hx:inline-block hx:align-middle&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z&#34;/&gt;&lt;/svg&gt;&lt;/div&gt;
@@ -1825,10 +1825,10 @@ This will not be counted as a step.
     
     <item>
       <title>Tabs</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/tabs/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/tabs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/tabs/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/tabs/</guid>
       <description>
         
         

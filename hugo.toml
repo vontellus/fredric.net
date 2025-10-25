@@ -1,8 +1,11 @@
 baseURL = 'https://vontellus.github.io/fredric.net/'
 languageCode = 'en-us'
 defaultContentLanguage = "en"
-title = 'Fredric'
+title = 'fredric.net'
 theme = 'hextra'
+
+[markup.goldmark.renderer]
+  unsafe = true
 
 [menu]
   [[menu.main]]
@@ -10,8 +13,8 @@ theme = 'hextra'
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Blog"
-    url = "/blog/"
+    name = "Research"
+    url = "/research/"
     weight = 2
   [[menu.main]]
     name = "About"
