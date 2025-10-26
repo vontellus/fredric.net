@@ -29,7 +29,7 @@
 
 h1 {
   /* Hextra Default: 2.25rem (36px) | font-extrabold (800) */
-  font-size: 3rem;
+  font-size: 4.5rem;
   font-weight: 600;
   margin-bottom: 1.5rem;
   margin-top: 2rem; /* Optional: Adjust spacing */
@@ -45,7 +45,7 @@ h2 {
 
 h3 {
   /* Hextra Default: 1.5rem (24px) | font-semibold (600) */
-  font-size: 1.75rem;
+  font-size: 1.25rem;
   font-weight: 600;
   margin-bottom: 1rem;
   margin-top: 1.5rem; /* Optional: Adjust spacing */
@@ -53,7 +53,7 @@ h3 {
 
 h4 {
   /* Hextra Default: 1.25rem (20px) | font-semibold (600) */
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   font-weight: 600;
   margin-bottom: 0.75rem;
   margin-top: 1.25rem; /* Optional: Adjust spacing */

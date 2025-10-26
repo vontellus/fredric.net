@@ -1,0 +1,55 @@
+{{/* layouts/partials/knowledge-graph-data.html */}}
+{{- $nodes := slice -}}
+{{- $edges := slice -}}
+{{- $pages := where site.RegularPages "Type" "not in" (slice "page" "json" "knowledge") -}} {{- /* Adjust excluded types if needed */ -}}
+{{- $nodeIndexMap := dict -}} {{- /* Map RelPermalink to a simple index for edges */ -}}
+{{- $nodeCounter := 0 -}}
+
+{{- range $pages -}}
+  {{- $nodeId := .RelPermalink -}}
+  {{- /* Add node for each page */ -}}
+  {{- /* Sigma.js/Graphology nodes need a 'key' (id), 'attributes' (label, etc.), and potentially x, y, size */ -}}
+  {{- $nodes = $nodes | append (dict "key" $nodeId "attributes" (dict "label" .Title "url" .RelPermalink "size" 5 "color" "#666")) -}}
+  {{- $nodeIndexMap = merge $nodeIndexMap (dict $nodeId $nodeCounter) -}}
+  {{- $nodeCounter = add $nodeCounter 1 -}}
+{{- end -}}
+
+{{- range $pages -}}
+  {{- /* Check for related pages in front matter */ -}}
+  {{- if isset .Params "related_pages" -}}
+    {{- $sourceNodeId := .RelPermalink -}}
+    {{- range .Params.related_pages -}}
+      {{- $targetPage := site.GetPage . -}}
+      {{- if $targetPage -}}
+        {{- $targetNodeId := $targetPage.RelPermalink -}}
+        {{- /* Ensure both source and target nodes exist in our list before adding edge */ -}}
+        {{- if and (isset $nodeIndexMap $sourceNodeId) (isset $nodeIndexMap $targetNodeId) -}}
+          {{- /* Sigma.js/Graphology edges need 'key', 'source', 'target', and optionally 'attributes' */ -}}
+          {{- $edgeKey := printf "%s-%s" $sourceNodeId $targetNodeId -}}
+          {{- /* Basic check to avoid duplicate edges (if A links B and B links A, only draw one line) */ -}}
+          {{- $reverseEdgeKey := printf "%s-%s" $targetNodeId $sourceNodeId -}}
+          {{- $edgeExists := false -}}
+          {{- range $edges -}}
+            {{- if or (eq .key $edgeKey) (eq .key $reverseEdgeKey) -}}
+              {{- $edgeExists = true -}}
+            {{- end -}}
+          {{- end -}}
+          {{- if not $edgeExists -}}
+            {{- $edges = $edges | append (dict "key" $edgeKey "source" $sourceNodeId "target" $targetNodeId "attributes" (dict "size" 1 "color" "#ccc")) -}}
+          {{- end -}}
+        {{- end -}}
+      {{- else -}}
+        {{- warnf "Page %q links to non-existent related page %q" $sourceNodeId . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Output data as JSON within a script tag, Graphology format */ -}}
+<script type="application/json" id="graph-data">
+  {
+    "nodes": {{ $nodes | jsonify }},
+    "edges": {{ $edges | jsonify }},
+    "options": { "multi": true, "allowSelfLoops": true, "type": "directed" }
+  }
+</script>

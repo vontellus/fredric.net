@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fredric.net – Fredric.net</title>
-    <link>https://vontellus.github.io/fredric.net/</link>
+    <link>http://localhost:1313/fredric.net/</link>
     <description>Recent content in Fredric.net on fredric.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Oct 2025 15:40:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 08:00:00 +0100</lastBuildDate>
     
-	  <atom:link href="https://vontellus.github.io/fredric.net/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/fredric.net/index.xml" rel="self" type="application/rss+xml" />
     
     
       

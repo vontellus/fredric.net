@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fredric.net – Research</title>
-    <link>https://vontellus.github.io/fredric.net/research/</link>
+    <link>http://localhost:1313/fredric.net/research/</link>
     <description>Recent content in Research on fredric.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Oct 2025 15:40:00 +0200</lastBuildDate>
     
-	  <atom:link href="https://vontellus.github.io/fredric.net/research/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/fredric.net/research/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Tips for Writing Great Content</title>
-      <link>https://vontellus.github.io/fredric.net/research/third-post/</link>
+      <link>http://localhost:1313/fredric.net/research/third-post/</link>
       <pubDate>Sat, 25 Oct 2025 15:40:00 +0200</pubDate>
       
-      <guid>https://vontellus.github.io/fredric.net/research/third-post/</guid>
+      <guid>http://localhost:1313/fredric.net/research/third-post/</guid>
       <description>
         
         
@@ -38,10 +38,10 @@ Creating engaging and informative content is key to a successful blog. Here are 
     
     <item>
       <title>Exploring Hextra Theme Features</title>
-      <link>https://vontellus.github.io/fredric.net/research/second-post/</link>
+      <link>http://localhost:1313/fredric.net/research/second-post/</link>
       <pubDate>Sat, 25 Oct 2025 15:35:00 +0200</pubDate>
       
-      <guid>https://vontellus.github.io/fredric.net/research/second-post/</guid>
+      <guid>http://localhost:1313/fredric.net/research/second-post/</guid>
       <description>
         
         
@@ -58,10 +58,10 @@ Creating engaging and informative content is key to a successful blog. Here are 
     
     <item>
       <title>My First Blog Post</title>
-      <link>https://vontellus.github.io/fredric.net/research/first-post/</link>
+      <link>http://localhost:1313/fredric.net/research/first-post/</link>
       <pubDate>Sat, 25 Oct 2025 15:30:00 +0200</pubDate>
       
-      <guid>https://vontellus.github.io/fredric.net/research/first-post/</guid>
+      <guid>http://localhost:1313/fredric.net/research/first-post/</guid>
       <description>
         
         

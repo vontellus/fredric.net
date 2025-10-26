@@ -1,6 +1,9 @@
 ---
 title: About
 toc: false
+related_pages:
+  - "/research/first-post/"
+  - "/research/second-post/"
 ---
 
 I have been working with technology and development my entire career. 

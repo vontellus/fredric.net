@@ -11,7 +11,7 @@ layout: hextra-home
 
 <div class="hx:mt-6 hx:mb-6">
 {{< hextra/hero-headline >}}
-  The foundation for&nbsp;<br class="hx:sm:block hx:hidden" /><span class="gradient-text">Business Intelligence Architecture</span>
+  Foundations of&nbsp;<br class="hx:sm:block hx:hidden" /><span class="gradient-text">Autonomous <br class="hx:sm:block hx:hidden" />Business Emergence</span>
 {{< /hextra/hero-headline >}}
 </div>
 
@@ -29,10 +29,10 @@ layout: hextra-home
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
-    title="Abstract"
-    subtitle="Background to BIA. Why and How."
+    title="What is Business Emergence?"
+    subtitle="Business Emergence, artificial companies without human interference"
     class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-md:min-h-[340px]"
-    image="/images/space.jpg"
+    image="/images/fredric-board.jpg"
     imageClass="hx:top-[40%] hx:left-[24px] hx:w-[180%] hx:sm:w-[110%] hx:dark:opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -48,7 +48,7 @@ layout: hextra-home
     title="Full Text Search"
     subtitle="Built-in full text search with FlexSearch, no extra setup required."
     class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-md:min-h-[340px]"
-    image="/images/space.jpg"
+    image="/images/business-intelligence-architecture-insights.webp"
     imageClass="hx:top-[40%] hx:left-[36px] hx:w-[110%] hx:sm:w-[110%] hx:dark:opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}

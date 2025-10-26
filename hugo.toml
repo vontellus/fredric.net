@@ -4,6 +4,19 @@ defaultContentLanguage = "en"
 title = 'fredric.net'
 theme = 'hextra'
 
+[params.navbar.logo]
+  # Path to your light mode logo
+  path = "images/fnet-logo-neutral.svg" 
+  
+  # Path to your dark mode logo
+  dark = "images/fnet-logo-neutral.svg"   
+
+  # Optional: You can also set the link and size
+  # link = "/"
+# Add these lines with your logo's dimensions
+  width = 90
+  height = 20
+
 [markup.goldmark.renderer]
   unsafe = true
 
@@ -24,3 +37,7 @@ theme = 'hextra'
     name = "Docs"
     url = "/docs/"
     weight = 4
+  [[menu.main]]
+    name = "Knowledge"
+    url = "/knowledge/"
+    weight = 5
