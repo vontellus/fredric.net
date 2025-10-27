@@ -29,7 +29,19 @@
     <loc>http://localhost:1313/fredric.net/docs/guide/shortcodes/</loc>
   </url><url>
     <loc>http://localhost:1313/fredric.net/</loc>
-    <lastmod>2025-10-26T08:00:00+01:00</lastmod>
+    <lastmod>2025-10-26T11:07:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/what-is-hextra/</loc>
+    <lastmod>2025-10-26T11:07:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/how-to-add-new-faq/</loc>
+    <lastmod>2025-10-26T11:06:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/what-is-hugo/</loc>
+    <lastmod>2025-10-26T11:05:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/</loc>
+    <lastmod>2025-10-26T11:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fredric.net/knowledge/knowledge/</loc>
     <lastmod>2025-10-26T08:00:00+01:00</lastmod>
