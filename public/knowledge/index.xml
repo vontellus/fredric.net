@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fredric.net – Knowledges</title>
-    <link>http://localhost:1313/fredric.net/knowledge/</link>
+    <link>https://vontellus.github.io/fredric.net/knowledge/</link>
     <description>Recent content in Knowledges on fredric.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Oct 2025 08:00:00 +0100</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/fredric.net/knowledge/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://vontellus.github.io/fredric.net/knowledge/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Knowledge Map</title>
-      <link>http://localhost:1313/fredric.net/knowledge/knowledge/</link>
+      <link>https://vontellus.github.io/fredric.net/knowledge/knowledge/</link>
       <pubDate>Sun, 26 Oct 2025 08:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/knowledge/knowledge/</guid>
+      <guid>https://vontellus.github.io/fredric.net/knowledge/knowledge/</guid>
       <description>
         
         

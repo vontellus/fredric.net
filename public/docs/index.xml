@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fredric.net – Introduction</title>
-    <link>http://localhost:1313/fredric.net/docs/</link>
+    <link>https://vontellus.github.io/fredric.net/docs/</link>
     <description>Recent content in Introduction on fredric.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://localhost:1313/fredric.net/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://vontellus.github.io/fredric.net/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Getting Started</title>
-      <link>http://localhost:1313/fredric.net/docs/getting-started/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/getting-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/getting-started/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/getting-started/</guid>
       <description>
         
         
@@ -333,10 +333,10 @@ For more options, check out &lt;a href=&#34;../guide/deploy-site&#34;&gt;Deploy 
     
     <item>
       <title>Multi-language</title>
-      <link>http://localhost:1313/fredric.net/docs/advanced/multi-language/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/advanced/multi-language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/advanced/multi-language/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/advanced/multi-language/</guid>
       <description>
         
         
@@ -475,10 +475,10 @@ For more options, check out &lt;a href=&#34;../guide/deploy-site&#34;&gt;Deploy 
     
     <item>
       <title>Organize Files</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/organize-files/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/organize-files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/organize-files/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/organize-files/</guid>
       <description>
         
         
@@ -1159,10 +1159,10 @@ For example, add an image file &lt;code&gt;image.png&lt;/code&gt; alongside the 
     
     <item>
       <title>Stormfors</title>
-      <link>http://localhost:1313/fredric.net/docs/companies/stormfors/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/companies/stormfors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/companies/stormfors/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/companies/stormfors/</guid>
       <description>
         
         
@@ -1174,10 +1174,10 @@ For example, add an image file &lt;code&gt;image.png&lt;/code&gt; alongside the 
     
     <item>
       <title>Configuration</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/configuration/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/configuration/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/configuration/</guid>
       <description>
         
         
@@ -1389,7 +1389,7 @@ Optionally, you can change the link that users are redirected to when clicking o
 &lt;h2&gt;Sidebar&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;sidebar&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#sidebar&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Main Sidebar&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;main-sidebar&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#main-sidebar&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;For the main sidebar, it is automatically generated from the structure of the content directory.
-See the &lt;a href=&#34;http://localhost:1313/fredric.net/docs/guide/organize-files/&#34;&gt;Organize Files&lt;/a&gt; page for more details.&lt;/p&gt;
+See the &lt;a href=&#34;https://vontellus.github.io/fredric.net/docs/guide/organize-files/&#34;&gt;Organize Files&lt;/a&gt; page for more details.&lt;/p&gt;
 &lt;p&gt;To exclude a single page from the left sidebar, set the &lt;code&gt;sidebar.exclude&lt;/code&gt; parameter in the front matter of the page:&lt;/p&gt;
 &lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
 
@@ -2040,10 +2040,10 @@ In this case, the field &lt;code&gt;message&lt;/code&gt; will be ignored.&lt;/p&
     
     <item>
       <title>Leadfront</title>
-      <link>http://localhost:1313/fredric.net/docs/companies/leadfront/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/companies/leadfront/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/companies/leadfront/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/companies/leadfront/</guid>
       <description>
         
         
@@ -2054,10 +2054,10 @@ In this case, the field &lt;code&gt;message&lt;/code&gt; will be ignored.&lt;/p&
     
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/markdown/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/markdown/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/markdown/</guid>
       <description>
         
         
@@ -2434,10 +2434,10 @@ Below is the default configuration for Hextra:&lt;/p&gt;
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/syntax-highlighting/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/syntax-highlighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/syntax-highlighting/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/syntax-highlighting/</guid>
       <description>
         
         
@@ -2656,10 +2656,10 @@ It is recommended to use backticks for code blocks in Markdown content. For exam
     
     <item>
       <title>LaTeX</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/latex/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/latex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/latex/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/latex/</guid>
       <description>
         
         
@@ -2846,10 +2846,10 @@ If you need to pin a specific version of KaTeX or use local assets, you can do s
     
     <item>
       <title>Diagrams</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/diagrams/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/diagrams/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/diagrams/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/diagrams/</guid>
       <description>
         
         
@@ -2901,10 +2901,10 @@ If you need to pin a specific version of KaTeX or use local assets, you can do s
     
     <item>
       <title>Asciinema Player Component</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/asciinema/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/asciinema/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/asciinema/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/asciinema/</guid>
       <description>
         
         
@@ -3133,10 +3133,10 @@ For page bundles, place cast files alongside your markdown file:&lt;/p&gt;
     
     <item>
       <title>Callout Component</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/callout/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/callout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/callout/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/callout/</guid>
       <description>
         
         
@@ -3423,10 +3423,10 @@ It leverages Markdown syntax to render the callout which ensures better portabil
     
     <item>
       <title>Cards Component</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/cards/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/cards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/cards/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/cards/</guid>
       <description>
         
         
@@ -3441,13 +3441,13 @@ It leverages Markdown syntax to render the callout which ensures better portabil
     &lt;div class=&#34;hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:text-gray-600 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:dark:text-neutral-200 hx:border-gray-200 hx:dark:border-neutral-700&#34;&gt;custom tag&lt;/div&gt;
   &lt;/div&gt;&lt;/a&gt;
   &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;No Icon&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
   &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;img
         alt=&#34;Image Card&#34;
         class=&#34;hextra-card-image&#34;
@@ -3460,20 +3460,20 @@ It leverages Markdown syntax to render the callout which ensures better portabil
       /&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Image Card&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Internet Image&lt;/div&gt;&lt;/a&gt;
   
       &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;img
         alt=&#34;Local Image&#34;
         class=&#34;hextra-card-image&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;http://localhost:1313/fredric.net/images/card-image-unprocessed.jpg&#34;
+        src=&#34;https://vontellus.github.io/fredric.net/images/card-image-unprocessed.jpg&#34;
         
         
         
       /&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Local Image&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Raw image under static directory.&lt;/div&gt;&lt;/a&gt;
   
       &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;img
         alt=&#34;Local Image&#34;
         class=&#34;hextra-card-image&#34;
@@ -3542,7 +3542,7 @@ It leverages Markdown syntax to render the callout which ensures better portabil
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;code&gt;icon&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;Name of the icon. See &lt;a href=&#34;http://localhost:1313/fredric.net/fredric.net/docs/guide/shortcodes/icon/&#34;&gt;icons&lt;/a&gt; for more information.&lt;/td&gt;
+          &lt;td&gt;Name of the icon. See &lt;a href=&#34;https://vontellus.github.io/fredric.net/fredric.net/docs/guide/shortcodes/icon/&#34;&gt;icons&lt;/a&gt; for more information.&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -3599,15 +3599,15 @@ It currently supports these &lt;code&gt;method&lt;/code&gt;: &lt;code&gt;Resize&
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;code&gt;tagColor&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;Color of the tag. See &lt;a href=&#34;http://localhost:1313/fredric.net/fredric.net/docs/guide/shortcodes/others/#badges&#34;&gt;badges&lt;/a&gt; for more information.&lt;/td&gt;
+          &lt;td&gt;Color of the tag. See &lt;a href=&#34;https://vontellus.github.io/fredric.net/fredric.net/docs/guide/shortcodes/others/#badges&#34;&gt;badges&lt;/a&gt; for more information.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;code&gt;tagIcon&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;Icon of the tag. See &lt;a href=&#34;http://localhost:1313/fredric.net/fredric.net/docs/guide/shortcodes/others/#badges&#34;&gt;badges&lt;/a&gt; for more information.&lt;/td&gt;
+          &lt;td&gt;Icon of the tag. See &lt;a href=&#34;https://vontellus.github.io/fredric.net/fredric.net/docs/guide/shortcodes/others/#badges&#34;&gt;badges&lt;/a&gt; for more information.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;code&gt;tagBorder&lt;/code&gt;&lt;/td&gt;
-          &lt;td&gt;Border of the tag. See &lt;a href=&#34;http://localhost:1313/fredric.net/fredric.net/docs/guide/shortcodes/others/#badges&#34;&gt;badges&lt;/a&gt; for more information.&lt;/td&gt;
+          &lt;td&gt;Border of the tag. See &lt;a href=&#34;https://vontellus.github.io/fredric.net/fredric.net/docs/guide/shortcodes/others/#badges&#34;&gt;badges&lt;/a&gt; for more information.&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -3634,13 +3634,13 @@ It currently supports these &lt;code&gt;method&lt;/code&gt;: &lt;code&gt;Resize&
   &lt;/div&gt;&lt;/a&gt;
   
       &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;img
         alt=&#34;Image Card&#34;
         class=&#34;hextra-card-image&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;http://localhost:1313/fredric.net/images/card-image-unprocessed.jpg&#34;
+        src=&#34;https://vontellus.github.io/fredric.net/images/card-image-unprocessed.jpg&#34;
         
         
         
@@ -3649,7 +3649,7 @@ It currently supports these &lt;code&gt;method&lt;/code&gt;: &lt;code&gt;Resize&
   &lt;/div&gt;&lt;/a&gt;
   
       &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;img
         alt=&#34;Image Card&#34;
         class=&#34;hextra-card-image&#34;
@@ -3687,19 +3687,19 @@ It currently supports these &lt;code&gt;method&lt;/code&gt;: &lt;code&gt;Resize&
     &lt;a href=&#34;#columns&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You can specify the maximum number of columns for cards to span by passing the &lt;code&gt;cols&lt;/code&gt; parameter to the &lt;code&gt;cards&lt;/code&gt; shortcode. Note that columns will still be collapsed on smaller screens.&lt;/p&gt;
 &lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 1;&#34;&gt;
   &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Top Card&lt;/span&gt;&lt;/a&gt;
   &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Bottom Card&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 2;&#34;&gt;
   &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Left Card&lt;/span&gt;&lt;/a&gt;
   &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/fredric.net/&#34;
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;https://vontellus.github.io/fredric.net/&#34;
       &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Right Card&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
@@ -3729,10 +3729,10 @@ It currently supports these &lt;code&gt;method&lt;/code&gt;: &lt;code&gt;Resize&
     
     <item>
       <title>Comments System</title>
-      <link>http://localhost:1313/fredric.net/docs/advanced/comments/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/advanced/comments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/advanced/comments/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/advanced/comments/</guid>
       <description>
         
         
@@ -3784,10 +3784,10 @@ Currently &lt;a href=&#34;https://giscus.app/&#34;target=&#34;_blank&#34; rel=&#
     
     <item>
       <title>Customizing Hextra</title>
-      <link>http://localhost:1313/fredric.net/docs/advanced/customization/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/advanced/customization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/advanced/customization/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/advanced/customization/</guid>
       <description>
         
         
@@ -4078,10 +4078,10 @@ For example, to override the &lt;code&gt;single.html&lt;/code&gt; layout for doc
     
     <item>
       <title>Deploy Site</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/deploy-site/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/deploy-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/deploy-site/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/deploy-site/</guid>
       <description>
         
         
@@ -4287,10 +4287,10 @@ This page provides guides for deploying your Hextra site on various platforms.&l
     
     <item>
       <title>Details</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/details/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/details/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/details/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/details/</guid>
       <description>
         
         
@@ -4356,10 +4356,10 @@ This page provides guides for deploying your Hextra site on various platforms.&l
     
     <item>
       <title>FileTree Component</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/filetree/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/filetree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/filetree/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/filetree/</guid>
       <description>
         
         
@@ -4482,10 +4482,10 @@ This page provides guides for deploying your Hextra site on various platforms.&l
     
     <item>
       <title>Hextra Shortcodes</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/hextra/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/hextra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/hextra/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/hextra/</guid>
       <description>
         
         
@@ -4846,10 +4846,10 @@ This page provides guides for deploying your Hextra site on various platforms.&l
     
     <item>
       <title>Icon</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/icon/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/icon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/icon/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/icon/</guid>
       <description>
         
         
@@ -4944,10 +4944,10 @@ This page provides guides for deploying your Hextra site on various platforms.&l
     
     <item>
       <title>Other Shortcodes</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/others/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/others/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/others/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/others/</guid>
       <description>
         
         
@@ -5205,10 +5205,10 @@ Releases&lt;/div&gt;
     
     <item>
       <title>Steps</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/steps/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/steps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/steps/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/steps/</guid>
       <description>
         
         
@@ -5268,10 +5268,10 @@ This will not be counted as a step.
     
     <item>
       <title>Tabs</title>
-      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/tabs/</link>
+      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/tabs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/tabs/</guid>
+      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/tabs/</guid>
       <description>
         
         

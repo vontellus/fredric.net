@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr"><head><script src="/fredric.net/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=fredric.net/livereload" data-no-instant defer></script>
+<html lang="en" dir="ltr"><head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="robots" content="noindex, nofollow" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="robots" content="index, follow" />
   <link rel="icon shortcut" href="/fredric.net/favicon.ico" sizes="32x32" />
 <link rel="icon" href="/fredric.net/favicon.svg" type="image/svg+xml" id="favicon-svg" />
 <link rel="icon" href="/fredric.net/favicon-16x16.png" type="image/png" sizes="16x16" />
@@ -9,7 +9,7 @@
 <link rel="apple-touch-icon" href="/fredric.net/apple-touch-icon.png" sizes="180x180" />
 <link fetchpriority="low" href="/fredric.net/site.webmanifest" rel="manifest" />
 <title>Cards Component – fredric.net</title>
-  <meta name="description" content="Example Callout Card with tag custom tag No Icon Image CardInternet Image Local ImageRaw image under static directory. Local ImageImage under assets directory, processed by Hugo. Usage {{&lt; cards &gt;}} {{&lt; card link=&#34;../callout&#34; title=&#34;Callout&#34; icon=&#34;warning&#34; &gt;}} {{&lt; card link=&#34;../callout&#34; title=&#34;Card with tag&#34; icon=&#34;tag&#34; tag= &#34;A custom tag&#34; &gt;}} {{&lt; card link=&#34;/&#34; title=&#34;No Icon&#34; &gt;}} {{&lt; /cards &gt;}} {{&lt; cards &gt;}} {{&lt; card link=&#34;/&#34; title=&#34;Image Card&#34; image=&#34;https://source.unsplash.com/featured/800x600?landscape&#34; subtitle=&#34;Unsplash Landscape&#34; &gt;}} {{&lt; card link=&#34;/&#34; title=&#34;Local Image&#34; image=&#34;/images/card-image-unprocessed.jpg&#34; subtitle=&#34;Raw image under static directory.&#34; &gt;}} {{&lt; card link=&#34;/&#34; title=&#34;Local Image&#34; image=&#34;images/space.jpg&#34; subtitle=&#34;Image under assets directory, processed by Hugo.&#34; method=&#34;Resize&#34; options=&#34;600x q80 webp&#34; &gt;}} {{&lt; /cards &gt;}} Card Parameters Parameter Description link URL (internal or external). title Title heading for the card. subtitle Subtitle heading (supports Markdown). icon Name of the icon. See icons for more information. Image Card Additionally, the card supports adding image and processing through these parameters:" /><link rel="canonical" href="http://localhost:1313/fredric.net/docs/guide/shortcodes/cards/" itemprop="url" />
+  <meta name="description" content="Example Callout Card with tag custom tag No Icon Image CardInternet Image Local ImageRaw image under static directory. Local ImageImage under assets directory, processed by Hugo. Usage {{&lt; cards &gt;}} {{&lt; card link=&#34;../callout&#34; title=&#34;Callout&#34; icon=&#34;warning&#34; &gt;}} {{&lt; card link=&#34;../callout&#34; title=&#34;Card with tag&#34; icon=&#34;tag&#34; tag= &#34;A custom tag&#34; &gt;}} {{&lt; card link=&#34;/&#34; title=&#34;No Icon&#34; &gt;}} {{&lt; /cards &gt;}} {{&lt; cards &gt;}} {{&lt; card link=&#34;/&#34; title=&#34;Image Card&#34; image=&#34;https://source.unsplash.com/featured/800x600?landscape&#34; subtitle=&#34;Unsplash Landscape&#34; &gt;}} {{&lt; card link=&#34;/&#34; title=&#34;Local Image&#34; image=&#34;/images/card-image-unprocessed.jpg&#34; subtitle=&#34;Raw image under static directory.&#34; &gt;}} {{&lt; card link=&#34;/&#34; title=&#34;Local Image&#34; image=&#34;images/space.jpg&#34; subtitle=&#34;Image under assets directory, processed by Hugo.&#34; method=&#34;Resize&#34; options=&#34;600x q80 webp&#34; &gt;}} {{&lt; /cards &gt;}} Card Parameters Parameter Description link URL (internal or external). title Title heading for the card. subtitle Subtitle heading (supports Markdown). icon Name of the icon. See icons for more information. Image Card Additionally, the card supports adding image and processing through these parameters:" /><link rel="canonical" href="https://vontellus.github.io/fredric.net/docs/guide/shortcodes/cards/" itemprop="url" />
 
 <meta property="og:title" content="Cards Component">
 <meta
@@ -96,7 +96,7 @@ Image Card
   content="
     article
   ">
-<meta property="og:url" content="http://localhost:1313/fredric.net/docs/guide/shortcodes/cards/"><meta property="article:section" content="docs">
+<meta property="og:url" content="https://vontellus.github.io/fredric.net/docs/guide/shortcodes/cards/"><meta property="article:section" content="docs">
 
 
 
@@ -107,12 +107,18 @@ Image Card
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Cards Component">
   <meta name="twitter:description" content="Example Callout Card with tag custom tag No Icon Image CardInternet Image Local ImageRaw image under static directory. Local ImageImage under assets directory, processed by Hugo. Usage {{&lt; cards &gt;}} {{&lt; card link=&#34;../callout&#34; title=&#34;Callout&#34; icon=&#34;warning&#34; &gt;}} {{&lt; card link=&#34;../callout&#34; title=&#34;Card with tag&#34; icon=&#34;tag&#34; tag= &#34;A custom tag&#34; &gt;}} {{&lt; card link=&#34;/&#34; title=&#34;No Icon&#34; &gt;}} {{&lt; /cards &gt;}} {{&lt; cards &gt;}} {{&lt; card link=&#34;/&#34; title=&#34;Image Card&#34; image=&#34;https://source.unsplash.com/featured/800x600?landscape&#34; subtitle=&#34;Unsplash Landscape&#34; &gt;}} {{&lt; card link=&#34;/&#34; title=&#34;Local Image&#34; image=&#34;/images/card-image-unprocessed.jpg&#34; subtitle=&#34;Raw image under static directory.&#34; &gt;}} {{&lt; card link=&#34;/&#34; title=&#34;Local Image&#34; image=&#34;images/space.jpg&#34; subtitle=&#34;Image under assets directory, processed by Hugo.&#34; method=&#34;Resize&#34; options=&#34;600x q80 webp&#34; &gt;}} {{&lt; /cards &gt;}} Card Parameters Parameter Description link URL (internal or external). title Title heading for the card. subtitle Subtitle heading (supports Markdown). icon Name of the icon. See icons for more information. Image Card Additionally, the card supports adding image and processing through these parameters:">
-<link href="/fredric.net/css/compiled/main.css" rel="stylesheet" />
-    <link href="/fredric.net/css/variables.css" rel="stylesheet" />
-    <link href="/fredric.net/css/custom.css" rel="stylesheet" />
+
+    <link rel="preload" href="/fredric.net/css/compiled/main.min.802e0e9bc34df4b9a309fc1bc8ece2c093f7860ae18337f741dcd5c5cfd2b324.css" as="style" integrity="sha256-gC4Om8NN9LmjCfwbyOziwJP3hgrhgzf3QdzVxc/SsyQ=" />
+    <link href="/fredric.net/css/compiled/main.min.802e0e9bc34df4b9a309fc1bc8ece2c093f7860ae18337f741dcd5c5cfd2b324.css" rel="stylesheet" integrity="sha256-gC4Om8NN9LmjCfwbyOziwJP3hgrhgzf3QdzVxc/SsyQ=" />
 
   
-<script src="/fredric.net/js/main-head.js" integrity=""></script>
+
+
+
+
+
+
+<script src="/fredric.net/js/main-head.min.94da6f95b126542222dab3a6e07ffefe1aaf63ec3ca555e827b58b80e7d3f0b7.js" integrity="sha256-lNpvlbEmVCIi2rOm4H/&#43;/hqvY&#43;w8pVXoJ7WLgOfT8Lc="></script>
 
   
   
@@ -1199,8 +1205,8 @@ It currently supports these <code>method</code>: <code>Resize</code>, <code>Fit<
   </a></div></div>
     </div></footer>
     
-    <script defer src="/fredric.net/js/main.js" integrity=""></script>
-<script defer src="/fredric.net/js/flexsearch.9f5b5908f93ae86f1ecd4b043b799f580c2d1654e703dd9357d568ac41b2547a.js" integrity="sha256-n1tZCPk66G8ezUsEO3mfWAwtFlTnA92TV9VorEGyVHo=" crossorigin="anonymous"></script>
-        <script defer src="/fredric.net/en.search.js" integrity=""></script>
+    <script defer src="/fredric.net/js/main.min.34942a15c9601bb42e1f7b94a4b25e369f0cc513fbf132f81bb5ff3a2abfa54e.js" integrity="sha256-NJQqFclgG7QuH3uUpLJeNp8MxRP78TL4G7X/Oiq/pU4="></script>
+<script defer src="/fredric.net/js/flexsearch.433e941a8a573ebb9931fc16fc75266ab6b93f569ac2fb4f3dc66882e0416f4c.js" integrity="sha256-Qz6UGopXPruZMfwW/HUmara5P1aawvtPPcZoguBBb0w=" crossorigin="anonymous"></script>
+        <script defer src="/fredric.net/en.search.min.66be7fd94b8d9f5fdce1d8f937a501aac6f37b5ce05492c3fc8f360891cb736a.js" integrity="sha256-Zr5/2UuNn1/c4dj5N6UBqsbze1zgVJLD/I82CJHLc2o="></script>
   </body>
 </html>
