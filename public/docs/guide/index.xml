@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fredric.net – Guide</title>
-    <link>https://vontellus.github.io/fredric.net/docs/guide/</link>
+    <link>http://localhost:1313/fredric.net/docs/guide/</link>
     <description>Recent content in Guide on fredric.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://vontellus.github.io/fredric.net/docs/guide/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/fredric.net/docs/guide/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Organize Files</title>
-      <link>https://vontellus.github.io/fredric.net/docs/guide/organize-files/</link>
+      <link>http://localhost:1313/fredric.net/docs/guide/organize-files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vontellus.github.io/fredric.net/docs/guide/organize-files/</guid>
+      <guid>http://localhost:1313/fredric.net/docs/guide/organize-files/</guid>
       <description>
         
         
@@ -700,10 +700,10 @@ For example, add an image file &lt;code&gt;image.png&lt;/code&gt; alongside the 
     
     <item>
       <title>Configuration</title>
-      <link>https://vontellus.github.io/fredric.net/docs/guide/configuration/</link>
+      <link>http://localhost:1313/fredric.net/docs/guide/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vontellus.github.io/fredric.net/docs/guide/configuration/</guid>
+      <guid>http://localhost:1313/fredric.net/docs/guide/configuration/</guid>
       <description>
         
         
@@ -915,7 +915,7 @@ Optionally, you can change the link that users are redirected to when clicking o
 &lt;h2&gt;Sidebar&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;sidebar&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#sidebar&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Main Sidebar&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;main-sidebar&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#main-sidebar&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;For the main sidebar, it is automatically generated from the structure of the content directory.
-See the &lt;a href=&#34;https://vontellus.github.io/fredric.net/docs/guide/organize-files/&#34;&gt;Organize Files&lt;/a&gt; page for more details.&lt;/p&gt;
+See the &lt;a href=&#34;http://localhost:1313/fredric.net/docs/guide/organize-files/&#34;&gt;Organize Files&lt;/a&gt; page for more details.&lt;/p&gt;
 &lt;p&gt;To exclude a single page from the left sidebar, set the &lt;code&gt;sidebar.exclude&lt;/code&gt; parameter in the front matter of the page:&lt;/p&gt;
 &lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
 
@@ -1566,10 +1566,10 @@ In this case, the field &lt;code&gt;message&lt;/code&gt; will be ignored.&lt;/p&
     
     <item>
       <title>Markdown</title>
-      <link>https://vontellus.github.io/fredric.net/docs/guide/markdown/</link>
+      <link>http://localhost:1313/fredric.net/docs/guide/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vontellus.github.io/fredric.net/docs/guide/markdown/</guid>
+      <guid>http://localhost:1313/fredric.net/docs/guide/markdown/</guid>
       <description>
         
         
@@ -1946,10 +1946,10 @@ Below is the default configuration for Hextra:&lt;/p&gt;
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>https://vontellus.github.io/fredric.net/docs/guide/syntax-highlighting/</link>
+      <link>http://localhost:1313/fredric.net/docs/guide/syntax-highlighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vontellus.github.io/fredric.net/docs/guide/syntax-highlighting/</guid>
+      <guid>http://localhost:1313/fredric.net/docs/guide/syntax-highlighting/</guid>
       <description>
         
         
@@ -2168,10 +2168,10 @@ It is recommended to use backticks for code blocks in Markdown content. For exam
     
     <item>
       <title>LaTeX</title>
-      <link>https://vontellus.github.io/fredric.net/docs/guide/latex/</link>
+      <link>http://localhost:1313/fredric.net/docs/guide/latex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vontellus.github.io/fredric.net/docs/guide/latex/</guid>
+      <guid>http://localhost:1313/fredric.net/docs/guide/latex/</guid>
       <description>
         
         
@@ -2358,10 +2358,10 @@ If you need to pin a specific version of KaTeX or use local assets, you can do s
     
     <item>
       <title>Diagrams</title>
-      <link>https://vontellus.github.io/fredric.net/docs/guide/diagrams/</link>
+      <link>http://localhost:1313/fredric.net/docs/guide/diagrams/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vontellus.github.io/fredric.net/docs/guide/diagrams/</guid>
+      <guid>http://localhost:1313/fredric.net/docs/guide/diagrams/</guid>
       <description>
         
         
@@ -2413,10 +2413,10 @@ If you need to pin a specific version of KaTeX or use local assets, you can do s
     
     <item>
       <title>Shortcodes</title>
-      <link>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/</link>
+      <link>http://localhost:1313/fredric.net/docs/guide/shortcodes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vontellus.github.io/fredric.net/docs/guide/shortcodes/</guid>
+      <guid>http://localhost:1313/fredric.net/docs/guide/shortcodes/</guid>
       <description>
         
         
@@ -2471,10 +2471,10 @@ If you need to pin a specific version of KaTeX or use local assets, you can do s
     
     <item>
       <title>Deploy Site</title>
-      <link>https://vontellus.github.io/fredric.net/docs/guide/deploy-site/</link>
+      <link>http://localhost:1313/fredric.net/docs/guide/deploy-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vontellus.github.io/fredric.net/docs/guide/deploy-site/</guid>
+      <guid>http://localhost:1313/fredric.net/docs/guide/deploy-site/</guid>
       <description>
         
         

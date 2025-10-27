@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fredric.net – Frequently Asked Questions</title>
-    <link>https://vontellus.github.io/fredric.net/faq/</link>
+    <link>http://localhost:1313/fredric.net/faq/</link>
     <description>Recent content in Frequently Asked Questions on fredric.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Oct 2025 11:00:00 +0100</lastBuildDate>
     
-	  <atom:link href="https://vontellus.github.io/fredric.net/faq/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/fredric.net/faq/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>What is Hextra?</title>
-      <link>https://vontellus.github.io/fredric.net/faq/what-is-hextra/</link>
+      <link>http://localhost:1313/fredric.net/faq/what-is-hextra/</link>
       <pubDate>Sun, 26 Oct 2025 11:07:00 +0100</pubDate>
       
-      <guid>https://vontellus.github.io/fredric.net/faq/what-is-hextra/</guid>
+      <guid>http://localhost:1313/fredric.net/faq/what-is-hextra/</guid>
       <description>
         
         
@@ -31,10 +31,10 @@
     
     <item>
       <title>How do I add a new FAQ item?</title>
-      <link>https://vontellus.github.io/fredric.net/faq/how-to-add-new-faq/</link>
+      <link>http://localhost:1313/fredric.net/faq/how-to-add-new-faq/</link>
       <pubDate>Sun, 26 Oct 2025 11:06:00 +0100</pubDate>
       
-      <guid>https://vontellus.github.io/fredric.net/faq/how-to-add-new-faq/</guid>
+      <guid>http://localhost:1313/fredric.net/faq/how-to-add-new-faq/</guid>
       <description>
         
         
@@ -45,10 +45,10 @@
     
     <item>
       <title>What is Hugo?</title>
-      <link>https://vontellus.github.io/fredric.net/faq/what-is-hugo/</link>
+      <link>http://localhost:1313/fredric.net/faq/what-is-hugo/</link>
       <pubDate>Sun, 26 Oct 2025 11:05:00 +0100</pubDate>
       
-      <guid>https://vontellus.github.io/fredric.net/faq/what-is-hugo/</guid>
+      <guid>http://localhost:1313/fredric.net/faq/what-is-hugo/</guid>
       <description>
         
         
