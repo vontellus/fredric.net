@@ -3,6 +3,9 @@ title: Shortcodes
 weight: 9
 prev: /docs/guide/diagrams
 next: /docs/guide/shortcodes/callout
+sidebar:
+  open: false
+
 ---
 
 [Hugo Shortcodes](https://gohugo.io/content-management/shortcodes/) are simple snippets inside your content files calling built-in or custom templates.

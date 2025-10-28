@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/fredric.net/faq/general/</loc>
+    <lastmod>2025-10-27T10:40:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/faq/</loc>
+  </url><url>
     <loc>http://localhost:1313/fredric.net/docs/getting-started/</loc>
   </url><url>
     <loc>http://localhost:1313/fredric.net/docs/advanced/multi-language/</loc>
-  </url><url>
-    <loc>http://localhost:1313/fredric.net/docs/guide/organize-files/</loc>
   </url><url>
     <loc>http://localhost:1313/fredric.net/docs/companies/stormfors/</loc>
   </url><url>
@@ -14,31 +17,41 @@
   </url><url>
     <loc>http://localhost:1313/fredric.net/docs/guide/configuration/</loc>
   </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/guide/configuration/</loc>
+  </url><url>
     <loc>http://localhost:1313/fredric.net/docs/guide/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/guide/</loc>
   </url><url>
     <loc>http://localhost:1313/fredric.net/docs/companies/leadfront/</loc>
   </url><url>
-    <loc>http://localhost:1313/fredric.net/docs/guide/markdown/</loc>
-  </url><url>
-    <loc>http://localhost:1313/fredric.net/docs/guide/syntax-highlighting/</loc>
-  </url><url>
-    <loc>http://localhost:1313/fredric.net/docs/guide/latex/</loc>
-  </url><url>
-    <loc>http://localhost:1313/fredric.net/docs/guide/diagrams/</loc>
+    <loc>http://localhost:1313/fredric.net/faq/questions/</loc>
+    <lastmod>2025-10-27T10:43:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fredric.net/docs/guide/shortcodes/</loc>
   </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/guide/shortcodes/</loc>
+  </url><url>
     <loc>http://localhost:1313/fredric.net/</loc>
-    <lastmod>2025-10-26T11:07:00+01:00</lastmod>
+    <lastmod>2025-10-27T10:43:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fredric.net/faq/what-is-hextra/</loc>
-    <lastmod>2025-10-26T11:07:00+01:00</lastmod>
+    <loc>http://localhost:1313/fredric.net/faq/questions/question6/</loc>
+    <lastmod>2025-10-27T10:43:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fredric.net/faq/how-to-add-new-faq/</loc>
-    <lastmod>2025-10-26T11:06:00+01:00</lastmod>
+    <loc>http://localhost:1313/fredric.net/faq/questions/question5/</loc>
+    <lastmod>2025-10-27T10:42:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fredric.net/faq/what-is-hugo/</loc>
-    <lastmod>2025-10-26T11:05:00+01:00</lastmod>
+    <loc>http://localhost:1313/fredric.net/faq/questions/question4/</loc>
+    <lastmod>2025-10-27T10:41:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/general/question3/</loc>
+    <lastmod>2025-10-27T10:40:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/general/question2/</loc>
+    <lastmod>2025-10-27T10:39:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/general/question1/</loc>
+    <lastmod>2025-10-27T10:38:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fredric.net/faq/</loc>
     <lastmod>2025-10-26T11:00:00+01:00</lastmod>
@@ -67,9 +80,15 @@
   </url><url>
     <loc>http://localhost:1313/fredric.net/docs/guide/shortcodes/asciinema/</loc>
   </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/guide/shortcodes/asciinema/</loc>
+  </url><url>
     <loc>http://localhost:1313/fredric.net/docs/guide/shortcodes/callout/</loc>
   </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/guide/shortcodes/callout/</loc>
+  </url><url>
     <loc>http://localhost:1313/fredric.net/docs/guide/shortcodes/cards/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/guide/shortcodes/cards/</loc>
   </url><url>
     <loc>http://localhost:1313/fredric.net/categories/</loc>
   </url><url>
@@ -83,27 +102,45 @@
   </url><url>
     <loc>http://localhost:1313/fredric.net/docs/guide/deploy-site/</loc>
   </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/guide/deploy-site/</loc>
+  </url><url>
     <loc>http://localhost:1313/fredric.net/docs/guide/shortcodes/details/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/guide/shortcodes/details/</loc>
   </url><url>
     <loc>http://localhost:1313/fredric.net/tags/docs/</loc>
   </url><url>
     <loc>http://localhost:1313/fredric.net/docs/</loc>
   </url><url>
+    <loc>http://localhost:1313/fredric.net/tags/faq/</loc>
+  </url><url>
     <loc>http://localhost:1313/fredric.net/docs/guide/shortcodes/filetree/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/guide/shortcodes/filetree/</loc>
   </url><url>
     <loc>http://localhost:1313/fredric.net/tags/guide/</loc>
   </url><url>
     <loc>http://localhost:1313/fredric.net/docs/guide/shortcodes/hextra/</loc>
   </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/guide/shortcodes/hextra/</loc>
+  </url><url>
     <loc>http://localhost:1313/fredric.net/docs/guide/shortcodes/icon/</loc>
   </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/guide/shortcodes/icon/</loc>
+  </url><url>
     <loc>http://localhost:1313/fredric.net/docs/guide/shortcodes/others/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/guide/shortcodes/others/</loc>
   </url><url>
     <loc>http://localhost:1313/fredric.net/showcase/</loc>
   </url><url>
     <loc>http://localhost:1313/fredric.net/docs/guide/shortcodes/steps/</loc>
   </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/guide/shortcodes/steps/</loc>
+  </url><url>
     <loc>http://localhost:1313/fredric.net/docs/guide/shortcodes/tabs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fredric.net/faq/guide/shortcodes/tabs/</loc>
   </url><url>
     <loc>http://localhost:1313/fredric.net/tags/</loc>
   </url>

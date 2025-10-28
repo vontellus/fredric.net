@@ -8,11 +8,6 @@
         <div class="content">
           {{ if .Title }}<h1>{{ .Title }}</h1>{{ end }}
           {{ .Content }}
-          {{ range .Pages }}
-            {{- $question := .Title -}}
-            {{- $answer := .Content -}}
-            {{ printf "{{< details title=\"%s\" >}}\n%s\n{{< /details >}}\n\n" $question $answer }}
-          {{ end }}
         </div>
         {{ partial "components/last-updated.html" . }}
         {{ partial "components/pager.html" . }}
