@@ -12,7 +12,7 @@ theme = 'hextra'
   path = "images/fnet-logo-dark.svg" 
   
   # Path to your dark mode logo
-  dark = "images/fnet-logo-white.svg"   
+  dark = "images/fredric-net-logo-qr.svg"   
 
   # Optional: You can also set the link and size
   # link = "/"

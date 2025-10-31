@@ -1,8 +1,8 @@
 ---
 title: General
-weight: 1
+weight: 3
 sidebar:
-  open: true
+  open: false
 ---
 
 Generalx
