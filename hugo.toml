@@ -9,10 +9,10 @@ theme = 'hextra'
 
 [params.navbar.logo]
   # Path to your light mode logo
-  path = "images/fnet-logo-dark.svg" 
+  path = "images/fnet-logo-black.svg" 
   
   # Path to your dark mode logo
-  dark = "images/fredric-net-logo-qr.svg"   
+  dark = "images/fnet-logo-white.svg"   
 
   # Optional: You can also set the link and size
   # link = "/"
