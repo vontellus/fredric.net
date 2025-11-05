@@ -4,7 +4,7 @@ title: Introduction
 ---
 
 👋 Hello! Welcome to the Hextra documentation!
- 
+
 <!--more-->
 
 ## What is Hextra?

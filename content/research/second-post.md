@@ -17,4 +17,3 @@ One of my favorite features is the built-in dark mode. It's easy on the eyes and
 ## Customization
 
 The theme is highly customizable, allowing you to change colors, fonts, and layouts to match your brand.
- 

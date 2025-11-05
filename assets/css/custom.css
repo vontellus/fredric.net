@@ -11,14 +11,12 @@
 
 /* Adjust the spacing between breadcrumbs and the page title */
 .content {
-  margin-top: 4rem;
-  /* The default is larger, try 1rem, 1.5rem, or 0.5rem */
+  margin-top: 4rem; /* The default is larger, try 1rem, 1.5rem, or 0.5rem */
 }
 
 /* Make the card corners less rounded */
 .hx\:rounded-3xl {
-  border-radius: 0.5rem;
-  /* This equals 8px, (Tailwind's rounded-lg) */
+  border-radius: 0.5rem; /* This equals 8px, (Tailwind's rounded-lg) */
 }
 
 /*
@@ -31,20 +29,18 @@
 
 h1 {
   /* Hextra Default: 2.25rem (36px) | font-extrabold (800) */
-  font-size: 3.5rem;
+  font-size: 4.5rem;
   font-weight: 600;
   margin-bottom: 1.5rem;
-  margin-top: 2rem;
-  /* Optional: Adjust spacing */
+  margin-top: 2rem; /* Optional: Adjust spacing */
 }
 
 h2 {
   /* Hextra Default: 1.875rem (30px) | font-bold (700) */
-  font-size: 2.75rem;
+  font-size: 2rem;
   font-weight: 700;
   margin-bottom: 1.25rem;
-  margin-top: 1.75rem;
-  /* Optional: Adjust spacing */
+  margin-top: 1.75rem; /* Optional: Adjust spacing */
 }
 
 h3 {
@@ -52,8 +48,7 @@ h3 {
   font-size: 1.25rem;
   font-weight: 600;
   margin-bottom: 1rem;
-  margin-top: 1.5rem;
-  /* Optional: Adjust spacing */
+  margin-top: 1.5rem; /* Optional: Adjust spacing */
 }
 
 h4 {
@@ -61,8 +56,7 @@ h4 {
   font-size: 1.1rem;
   font-weight: 600;
   margin-bottom: 0.75rem;
-  margin-top: 1.25rem;
-  /* Optional: Adjust spacing */
+  margin-top: 1.25rem; /* Optional: Adjust spacing */
 }
 
 h5 {
@@ -81,28 +75,15 @@ h6 {
 /* A custom class for gradient text */
 .gradient-text {
   /* 1. Define the gradient */
-  background-image: linear-gradient(to right, #8b5cf6, #ec4899);
-  /* Example: Tailwind's purple-500 to pink-500 */
-
+  background-image: linear-gradient(to right, #8b5cf6, #ec4899); /* Example: Tailwind's purple-500 to pink-500 */
+  
   /* 2. Clip the background to the text */
-  -webkit-background-clip: text;
-  /* For Safari/Chrome */
+  -webkit-background-clip: text; /* For Safari/Chrome */
   background-clip: text;
-
+  
   /* 3. Make the text transparent */
   color: transparent;
-
+  
   /* Optional: Fix for some browsers */
-  display: inline-block;
-}
-
-/* Fix for white flash in dark mode */
-body {
-  background-color: var(--color-dark);
-  /* Default to dark background */
-}
-
-html.light body {
-  background-color: white;
-  /* Override to white in light mode */
+  display: inline-block; 
 }

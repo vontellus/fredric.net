@@ -9,4 +9,3 @@ linkTitle: "Research"
 {{< /hextra/hero-badge >}}
 
 Welcome to my blog! Here you'll find my latest thoughts and articles.
- 

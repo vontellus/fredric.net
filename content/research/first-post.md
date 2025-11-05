@@ -16,4 +16,4 @@ To begin, you need to install Hugo and set up your project. Once that's done, yo
 
 ## Conclusion
 
-I hope you enjoyed this first post. Stay tuned for more updates and articles! 
+I hope you enjoyed this first post. Stay tuned for more updates and articles!

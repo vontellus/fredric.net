@@ -8,7 +8,7 @@ next: /docs/guide
 prev: /docs
 ---
 
-## Quick Start from Template 
+## Quick Start from Template
 
 {{< icon "github" >}}&nbsp;[imfing/hextra-starter-template](https://github.com/imfing/hextra-starter-template)
 
