@@ -37,14 +37,6 @@ theme = 'hextra'
     url = "/about/"
     weight = 3
   [[menu.main]]
-    name = "Docs"
-    url = "/docs/"
+    name = "Showcase"
+    url = "/showcase/"
     weight = 4
-  [[menu.main]]
-    name = "Knowledge"
-    url = "/knowledge/"
-    weight = 5
-  [[menu.main]]
-    name = "FAQ"
-    url = "/faq/"
-    weight = 6

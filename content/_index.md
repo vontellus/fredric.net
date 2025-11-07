@@ -1,6 +1,8 @@
 ---
 title: Fredric.net
 layout: hextra-home
+sidebar:
+  open: true
 ---
 
 {{< hextra/hero-badge >}}
@@ -11,7 +13,7 @@ layout: hextra-home
 
 <div class="hx:mt-6 hx:mb-6">
 {{< hextra/hero-headline >}}
-  Business Emergence<br class="hx:sm:block hx:hidden" />
+  Business Emergence &<br class="hx:sm:block hx:hidden" /> Autonomous Organisations
 {{< /hextra/hero-headline >}}
 </div>
 
@@ -34,7 +36,7 @@ scale and grow without human intervention.&nbsp;<br class="hx:sm:block hx:hidden
     title="What is Business Emergence?"
     subtitle="Business Emergence, artificial companies without human interference"
     class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-md:min-h-[340px]"
-    image="/images/fredric-board.jpg"
+    image="/images/fredric-net-1.svg"
     link="faq"
     imageClass="hx:top-[60%] hx:left-[0px] hx:w-[180%] hx:sm:w-[110%] hx:dark:opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"

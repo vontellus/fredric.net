@@ -1,14 +1,13 @@
 ---
 title: About
 toc: false
-related_pages:
-  - "/research/first-post/"
-  - "/research/second-post/"
 ---
 
-I have been working with technology and development my entire career. 
+Hextra is designed to be a simple, fast, and flexible theme for building modern static websites. It is especially well-suited for documentation websites but can also be used for various types of sites, such as blogs, portfolios, and more.
 
-AI is the hytoly grail for business scaling.
+Hugo, like Jekyll, is a static site generator. What sets Hugo apart is that it is a single binary, making it easy to install and run on various platforms. It is also extremely fast and reliable, capable of rendering a site with thousands of pages in milliseconds.
+
+Hextra is built with a mindset focused on having a minimal footprint. To get started, no extra dependencies like Node.js packages are required; all you need is a single YAML configuration file, along with your Markdown content. Thus, we can focus on writing quality content instead of setting up tooling.
 
 ## Credits
 
