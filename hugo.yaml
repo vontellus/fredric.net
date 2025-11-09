@@ -2,7 +2,9 @@ baseURL: 'https://vontellus.github.io/fredric.net/'
 languageCode: 'en-us'
 defaultContentLanguage: "en"
 title: 'FREDRIC.NET'
-theme: 'hextra'
+module:
+  imports:
+    - path: github.com/imfing/hextra
 
 params:
   navbar:
@@ -46,4 +48,3 @@ menu:
         type: search
         icon: search
       weight: 5
-
