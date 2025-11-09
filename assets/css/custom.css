@@ -1,5 +1,45 @@
 /* Fredric.net - Custom CSS overriding Hextra Theme */
 
+/* 
+ * Primary Color Configuration (HSL)
+ * 
+ * HSL Color Model:
+ * - Hue: 0-360 degrees (color wheel position)
+ *   0/360 = Red, 60 = Yellow, 120 = Green, 180 = Cyan, 240 = Blue, 300 = Magenta
+ * - Saturation: 0-100% (intensity/purity of color)
+ *   0% = grayscale, 100% = full color
+ * - Lightness: 0-100% (brightness)
+ *   0% = black, 50% = normal, 100% = white
+ * 
+ * Current values: hsl(100deg, 90%, 50%) ≈ #4ade80 (bright green)
+ * 
+ * To convert HSL to hex or see the color:
+ * - Use browser DevTools: Inspect any element using the primary color
+ * - Online tools: https://hslpicker.com or https://www.w3schools.com/colors/colors_hsl.asp
+ * - CSS: hsl(100, 90%, 50%) converts to approximately #4ade80
+ * 
+ * Common color examples:
+ * - Blue: hsl(217, 91%, 60%) or --primary-hue: 217deg;
+ * - Purple: hsl(262, 83%, 58%) or --primary-hue: 262deg;
+ * - Red: hsl(0, 84%, 60%) or --primary-hue: 0deg;
+ * - Orange: hsl(25, 95%, 53%) or --primary-hue: 25deg;
+ * - Teal: hsl(173, 80%, 40%) or --primary-hue: 173deg;
+ */
+:root {
+  --primary-hue: 38deg;
+  /* Green hue (120deg = pure green, 100deg = yellow-green) */
+  --primary-saturation: 100%;
+  /* Very saturated (vivid color) */
+  --primary-lightness: 50%;
+  /* Medium brightness */
+}
+
+/* Set the icon color to the primary theme color */
+.hextra-icon {
+  color: hsl(var(--primary-hue), var(--primary-saturation), var(--primary-lightness));
+}
+}
+
 /* Tailwind custom bg start 
 @tailwind base;
 @tailwind components;
@@ -120,4 +160,20 @@ h6 {
   font-size: 0.8rem;
   font-weight: 300;
   letter-spacing: 0.1rem;
+}
+
+/* Show TOC sidebar at 1040px and above */
+.hextra-toc {
+  display: none;
+}
+
+@media (min-width: 1040px) {
+  .hextra-toc {
+    display: block !important;
+  }
+}
+
+/* Set the icon color to the primary theme color */
+.hextra-icon {
+  color: hsl(var(--primary-hue), var(--primary-saturation), var(--primary-lightness));
 }

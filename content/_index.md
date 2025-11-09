@@ -26,7 +26,7 @@ scale and grow without human intervention.&nbsp;<br class="hx:sm:block hx:hidden
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-button text="Introduction" link="about" >}}
+{{< hextra/hero-button text="Get Started" link="research" >}}
 </div>
 
 <div class="hx:mt-6"></div>

@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "11bdb6488ff952ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c39e3aba1ee2210",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "218c0cacbefdd95f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "research/02-foundations/c-multiagent-systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "c-multiagent-systems"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d634537d28318a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "21891cfe4cd7e3be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eacc88ab9a16ba3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ebf67162004d4846",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ca000f4305de7b77",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2153dfed554fa5d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d763909167eb9e67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35e1bc89ff3250b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "research/07-conclusions/c-my-reflections.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for c-my-reflections"
+            }
+          },
+          {
+            "id": "5611259ba0677180",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "research/07-conclusions/c-my-reflections.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from c-my-reflections"
+            }
+          },
+          {
+            "id": "96be464d5affb4b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fcf09982de14fbb5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "research/02-foundations/c-multiagent-systems.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of c-multiagent-systems"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "218c0cacbefdd95f",
+  "lastOpenFiles": [
+    "research/07-conclusions/d-credits.md",
+    "research/07-conclusions/c-my-reflections.md",
+    "research/_index.md",
+    "research/01-introduction/_index.md",
+    "research/06-creative-approaches/_index.md",
+    "research/05-benefits-risks/_index.md",
+    "research/04-case-studies/_index.md",
+    "research/03-challenges/_index.md",
+    "research/02-foundations/_index.md",
+    "research/01-introduction/a-definitions.md",
+    "research/07-conclusions/_index.md",
+    "research/01-introduction/b-impact.md",
+    "_index.md",
+    "research/04-case-studies/c-tools-platforms.md",
+    "research/03-challenges/b-compliance.md",
+    "research/03-challenges/a-governance.md",
+    "research/05-benefits-risks/c-long-term-impact.md",
+    "research/05-benefits-risks/b-risks.md",
+    "research/06-creative-approaches/c-predictive-adaptive-ai.md",
+    "research/07-conclusions/b-further-research.md",
+    "research/07-conclusions/a-key-findings.md",
+    "research/06-creative-approaches/b-collaboration.md",
+    "research/06-creative-approaches/a-hybrid-governance.md",
+    "research/07-conclusions",
+    "research/06-creative-approaches",
+    "research/05-benefits-risks/c-impact.md",
+    "research/05-benefits-risks/a-benefits.md",
+    "research/03-challenges/h-error-management.md",
+    "research/05-benefits-risks",
+    "research/04-case-studies",
+    "research/01-introduction",
+    "_obsidian-templates",
+    "obsidian_templates"
+  ]
+}

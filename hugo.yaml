@@ -1,0 +1,49 @@
+baseURL: 'https://vontellus.github.io/fredric.net/'
+languageCode: 'en-us'
+defaultContentLanguage: "en"
+title: 'FREDRIC.NET'
+theme: 'hextra'
+
+params:
+  navbar:
+    displayTitle: true
+    logo:
+      # Path to your light mode logo
+      path: "images/fredric-net-logo-b.svg"
+      # Path to your dark mode logo
+      dark: "images/fredric-net-logo-w.svg"
+      # Optional: You can also set the link and size
+      # link: "/"
+      # Add these lines with your logo's dimensions
+      width: 60
+      height: 20
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+        title: true
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Research"
+      url: "/research/"
+      weight: 2
+    - name: "About"
+      url: "/about/"
+      weight: 3
+    - name: "Showcase"
+      url: "/showcase/"
+      weight: 4
+    - name: Search
+      params:
+        type: search
+        icon: search
+      weight: 5
+

@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "": "text",
+    "date": "date",
+    "lastmod": "date",
+    "author": "text",
+    "sidebar": "text"
+  }
+}
