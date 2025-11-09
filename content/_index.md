@@ -38,7 +38,7 @@ scale and grow without human intervention.&nbsp;<br class="hx:sm:block hx:hidden
     class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-md:min-h-[340px]"
     image="/images/fredric-net-1.svg"
     link="faq"
-    imageClass="hx:top-[60%] hx:left-[0px] hx:w-[180%] hx:sm:w-[110%] hx:dark:opacity-80"
+    imageClass="hx:top-[60%] hx:left-[0px] hx:w-[50%] hx:sm:w-[110%] hx:dark:opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card

@@ -1,18 +1,18 @@
 ---
-title: Conclusions & Further research
-description: Conclusions and Personal Insights
+title:
+description:
 weight: 7
-linkTitle: Conclusions
+linkTitle:
 type: docs
 tags:
 categories:
 date:
 lastmod:
-draft: false
+draft: true
 toc: true
 comments: false
 image:
-prev: 
+prev:
 next:
 ---
 

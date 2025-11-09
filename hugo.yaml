@@ -13,12 +13,16 @@ params:
       # Path to your light mode logo
       path: "images/fredric-net-logo-b.svg"
       # Path to your dark mode logo
-      dark: "images/fredric-net-logo-w.svg"
+      dark: "images/fredric-net-svg-logo-dark.svg"
       # Optional: You can also set the link and size
       # link: "/"
       # Add these lines with your logo's dimensions
       width: 60
       height: 20
+  theme:
+    # light | dark | system
+    default: dark
+    displayToggle: false
 
 markup:
   goldmark:
