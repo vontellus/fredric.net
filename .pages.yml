@@ -17,9 +17,9 @@ content:
     # Optional: Shows these fields in the list view
     view:
       fields: [ "title", "date" ]
-  - name: "FAQ"
-    label: "FAQ"
-    type: "faq"
+  - name: "Documentation"
+    label: "docs"
+    type: "docs"
       
     # These are the front matter fields for your markdown files
     fields:
